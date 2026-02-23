@@ -1,0 +1,17 @@
+{
+    "name": "green-block-backend",
+    "version": "1.0.0",
+    "description": "Backend for Green-Block Smart Grid Anomaly Detection",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Tanveer Sheikh",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.20.2",
+        "cors": "^2.8.6",
+        "express": "^4.18.2",
+        "web3": "^1.10.0"
+    }
+}
